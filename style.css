@@ -1,0 +1,206 @@
+.bg-container {
+    font-family: "Roboto";
+}
+
+nav {
+    background-color: black;
+}
+
+#nav-heading {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+span {
+    color: #cced00;
+    font-style: italic;
+}
+
+.bg-home {
+    background-color: #161d24;
+}
+
+.main-img {
+    width: 70%;
+    border-radius: 20%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #fff;
+
+}
+
+.home-para {
+    color: #cced00;
+    font-size: 15px;
+}
+
+.home-heading {
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.main-description {
+    color: grey;
+    font-size: 14px;
+}
+
+.icons {
+    color: grey;
+    border-style: solid;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    border-width: 1px;
+    text-align: center;
+    padding: 8px;
+
+}
+
+.sub-heading {
+    color: grey;
+    font-size: 12px;
+}
+
+.home-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 120px;
+    height: 35px;
+    border-width: 0;
+    font-size: 14px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.bg-aboutme {
+    background-color: #010108;
+}
+
+.aboutme-para {
+    color: #9aa5b1;
+    font-size: 15px;
+
+}
+
+.aboutme-img {
+    width: 95%;
+}
+
+.bg-qualification {
+    background-color: #161d24;
+}
+
+.qualification-card {
+    background-color: #010108;
+    border-radius: 20px;
+}
+
+.q-heading {
+    color: #fff;
+    font-size: 20px;
+}
+
+.q-para {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.q-icons {
+    font-size: 40px;
+    color: #d7e607;
+}
+
+.bg-skills-services {
+    background-color: #010108;
+}
+
+.bg-ss-card {
+    background-color: #323f4b;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.skills-heading {
+    color: white;
+    font-size: 18px;
+}
+
+.bg-services-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.services-heading {
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.services-para {
+    color: #9aa5b1;
+    font-size: 16px;
+}
+
+.bg-projects {
+    background-color: #161d24;
+    font-family: "Roboto";
+}
+
+.bg-project-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.web-heading {
+    color: #9aa5b1;
+    font-size: 13px;
+}
+
+.project-heading {
+    color: white;
+    font-size: 23px;
+}
+
+.project-para {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+.projects-link {
+    color: #cced00;
+    font-size: 14px;
+}
+
+.bg-contact {
+    background-color: #0d2436;
+    font-family: "Roboto";
+}
+
+.contact-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+}
+
+.contact-heading {
+    color: #cced00;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.contact-para {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.contact-icons {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.bg-footer-card {
+    background-color: #001c32;
+}
